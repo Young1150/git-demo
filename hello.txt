@@ -13,4 +13,4 @@ hello cgy hello git
 hello cgy hello git
 hello cgy hello git
 hello cgy hello git master test
-hello cgy hello git
+hello cgy hello git hot-fix test
